@@ -34,7 +34,7 @@ function hotelCost(day){
 
 var megaFriend = ['jhankarMahbub','Habib','Shamim','Fahim','Alamin','Abadullah'];
 
-function megaFriend(arr){
+function friends(arr){
     let length = 0;
     let longestWord;
     for(let i =0; i<arr.length; i++){
