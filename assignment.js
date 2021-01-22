@@ -17,7 +17,7 @@ function kilometerToMeter(kilometer) {
         }
 
 
-// hotelCost calculate by day number. Number 3
+//hotelCost calculate by day number. Number 3
 
 function hotelCost(day){
     if(day >=1 && day<= 10)
@@ -32,7 +32,7 @@ function hotelCost(day){
 
 //megaFriend longest word query from the array. Number 4
 
-var friends = ['jhankarMahbub','Habib','Shamim','Fahim','Alamin','Abadullah'];
+var megaFriend = ['jhankarMahbub','Habib','Shamim','Fahim','Alamin','Abadullah'];
 
 function megaFriend(arr){
     let length = 0;
